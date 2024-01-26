@@ -22,3 +22,24 @@ This projects will consist of 3 steps:
 1. Data Overview
 2. Preprocessing Data
 3. Testing the Hypothesis
+
+## Conclusion
+
+We have tested the following three hypotheses:
+
+1. User activities in Springfield and Shelbyville depend on the day of the week, although these two cities vary in various ways.
+2. On Monday morning, residents of Springfield and Shelbyville listen to different genres. This also applies to Friday night.
+3. Listeners in Springfield and Shelbyville have different preferences. In both Springfield and Shelbyville, they prefer pop music.
+
+After analyzing the available data, we can conclude that:
+
+* User activities in Springfield and Shelbyville depend on the day, even though the cities are different. The first hypothesis can be fully accepted.
+
+* Music preferences do not vary significantly throughout the week in Springfield and Shelbyville. We can see small differences in the order on Monday, but: In both Springfield and Shelbyville, users mostly listen to pop music. Therefore, this hypothesis cannot be accepted. It is also important to note that the obtained results may differ if we do not have missing values.
+
+* It turns out that the music preferences of users from Springfield and Shelbyville are very similar.
+The third hypothesis is rejected. If there are differences in preferences, unfortunately, we cannot determine this from this data.
+
+## Future Work
+
+More thorough statistical hypothesis testing would be beneficial in the future to provide more precise and quantitative results. This could lead to more refined and reliable insights about user behavior and preferences.
